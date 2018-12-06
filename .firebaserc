@@ -1,1 +1,5 @@
-{}
+{
+  "projects": {
+    "sample": "fir-sample-11f5c"
+  }
+}
